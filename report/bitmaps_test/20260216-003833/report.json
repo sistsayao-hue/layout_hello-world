@@ -4,7 +4,7 @@
     {
       "pair": {
         "reference": "..\\bitmaps_reference\\Entire_document.png",
-        "test": "..\\bitmaps_test\\20260214-123050\\Entire_document.png",
+        "test": "..\\bitmaps_test\\20260216-003833\\Entire_document.png",
         "selector": "document",
         "fileName": "Entire_document.png",
         "label": "Entire document",
@@ -20,13 +20,10 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 6.419999999999999,
-          "misMatchPercentage": "6.42",
-          "analysisTime": 4
-        },
-        "diffImage": "..\\bitmaps_test\\20260214-123050\\failed_diff_Entire_document.png"
+          "misMatchPercentage": "0.00"
+        }
       },
-      "status": "fail"
+      "status": "pass"
     }
   ]
 }
